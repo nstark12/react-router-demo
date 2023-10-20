@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Post 1",
+      "slug": "post-1",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "title": "Post 2",
+      "slug": "post-2",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "title": "Post 3",
+      "slug": "post-3",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ]
